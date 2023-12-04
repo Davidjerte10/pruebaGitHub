@@ -17,6 +17,10 @@ public class Principal extends javax.swing.JFrame {
         initComponents();
         
     }
+    
+    // Para dar al botón enter pasar de un lado a otro
+    // getRootPane().setDefaultButton(entrar)
+    // Hola
 
     /**
      * This method is called from within the constructor to initialize the form.
